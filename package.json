@@ -1,0 +1,25 @@
+{
+  "name": "testingpractise",
+  "version": "1.0.0",
+  "description": "TOP - Testing practise",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LateBloomer22/testingPractise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/LateBloomer22/testingPractise/issues"
+  },
+  "homepage": "https://github.com/LateBloomer22/testingPractise#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.29.2",
+    "jest": "^30.3.0"
+  }
+}
